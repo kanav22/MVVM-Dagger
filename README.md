@@ -1,4 +1,4 @@
-# Doubtnut
+# MVVM-Dagger-Room
 News App is a simple news app 🗞️ which uses NewsAPI to fetch top news headlines from the API. 
 The codebase focuses 👓 on following key things:
 
